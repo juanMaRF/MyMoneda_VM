@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyMoneda_VM</string>
+    <string name="app_name">Moneda</string>
+    <string name="title">Conversor</string>
+    <string name="button_conv">Convertir</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="resultado">Resultado</string>
 </resources>
